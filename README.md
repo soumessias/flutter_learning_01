@@ -12,7 +12,6 @@ In it I learned about:
 
 Some screenshots:
 
-<img src="https://github.com/soumessias/flutter_learning_01/blob/master/screenshots/01.png" width="200">
-<img src="https://github.com/soumessias/flutter_learning_01/blob/master/screenshots/02.png" width="200">
-<img src="https://github.com/soumessias/flutter_learning_01/blob/master/screenshots/03.png" width="200">
-<img src="https://github.com/soumessias/flutter_learning_01/blob/master/screenshots/04.png" width="200">
+Home Screen                | Splash Screen             | Question Screen           | Result Screen
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+<img src="https://github.com/soumessias/flutter_learning_01/blob/master/screenshots/01.png" width="200">  |  <img src="https://github.com/soumessias/flutter_learning_01/blob/master/screenshots/02.png" width="200"> | <img src="https://github.com/soumessias/flutter_learning_01/blob/master/screenshots/03.png" width="200"> | <img src="https://github.com/soumessias/flutter_learning_01/blob/master/screenshots/04.png" width="200">
