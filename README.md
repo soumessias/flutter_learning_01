@@ -11,4 +11,4 @@ In it I learned about:
 * How to use ElevatedButton
 
 Some screenshots:
-<img src="[https://your-image-url.type](https://github.com/soumessias/flutter_learning_01/blob/master/screenshots/01.png)" width="300">
+<img src="https://github.com/soumessias/flutter_learning_01/blob/master/screenshots/01.png" width="300">
